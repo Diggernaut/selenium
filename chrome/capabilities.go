@@ -14,7 +14,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/Diggernaut/selenium/internal/zip"
+	"github.com/diggernaut/selenium/internal/zip"
 	"github.com/golang/protobuf/proto"
 	"github.com/mediabuyerbot/go-crx3/pb"
 )

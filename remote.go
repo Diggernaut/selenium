@@ -17,8 +17,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Diggernaut/selenium/firefox"
-	"github.com/Diggernaut/selenium/log"
+	"github.com/diggernaut/selenium/firefox"
+	"github.com/diggernaut/selenium/log"
 	"github.com/blang/semver"
 )
 

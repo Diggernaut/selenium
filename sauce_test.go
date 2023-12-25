@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Diggernaut/selenium"
-	"github.com/Diggernaut/selenium/internal/seleniumtest"
-	"github.com/Diggernaut/selenium/sauce"
+	"github.com/diggernaut/selenium"
+	"github.com/diggernaut/selenium/internal/seleniumtest"
+	"github.com/diggernaut/selenium/sauce"
 	"github.com/blang/semver"
 )
 

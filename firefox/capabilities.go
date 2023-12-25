@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"encoding/base64"
 
-	"github.com/Diggernaut/selenium/internal/zip"
+	"github.com/diggernaut/selenium/internal/zip"
 )
 
 // CapabilitiesKey is the name of the Firefox-specific key in the WebDriver

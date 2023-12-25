@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Diggernaut/selenium"
-	"github.com/Diggernaut/selenium/internal/seleniumtest"
+	"github.com/diggernaut/selenium"
+	"github.com/diggernaut/selenium/internal/seleniumtest"
 	"github.com/blang/semver"
 	"github.com/golang/glog"
 )
